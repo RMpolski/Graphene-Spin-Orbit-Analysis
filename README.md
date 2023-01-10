@@ -42,3 +42,5 @@ In this figure, the colors represent best-fit values for the parameters in the t
 This is a graph showing minimized residuals close to the line where the model becomes unstable.
 
 ![image](./Figures/Residuals_vf_tauphi1.png)
+
+These results and other consequences of spin-orbit coupling in twisted bilayer graphene with WSe$_2$ stacked on top are discussed more in our [Nature paper](https://www.nature.com/articles/s41586-020-2473-8).
