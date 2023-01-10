@@ -43,4 +43,6 @@ This is a graph showing minimized residuals close to the line where the model be
 
 ![image](./Figures/Residuals_vf_tauphi1.png)
 
-These results and other consequences of spin-orbit coupling in twisted bilayer graphene with WSe$_2$ stacked on top are discussed more in our [Nature paper](https://www.nature.com/articles/s41586-020-2473-8).
+These results and other consequences of spin-orbit coupling in twisted bilayer graphene with WSe<sub>2</sub> stacked on top are discussed more in our [Nature paper](https://www.nature.com/articles/s41586-020-2473-8).
+
+Read more in the [Weak Antilocalization Notebook](https://github.com/RMpolski/Graphene-Spin-Orbit-Analysis/blob/main/WeakAntilocalizationAnalysis.ipynb)
