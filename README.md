@@ -12,6 +12,8 @@ The effect we are concerned with here is called weak antilocalization. Usually, 
 
 However, when the material has spin-orbit coupling, electrons with opposite spins tend to form cyclic paths (shown in the figure below with blue and red paths being electrons with opposite spins) in opposite directions. The opposite paths tend to cause destructive interference, increasing conductivity this time. The increased conductivity diminishes with a small magnetic field that knocks the electrons off their paths. This effect is called weak ANTIlocalization, which is what we observe here.
 
+![image](./Figures/WAL_scattering.png)
+
 Spin-orbit coupling can be represented by various scattering times $\tau$, which form a sort of average time before spins are scattered. Smaller scattering times mean larger spin-orbit coupling.
 
 Through some equations for graphene that we have modified to work for twisted bilayer graphene, we estimate the parameters $\tau_{asy}, \tau_{sym}$. Although they are hard to estimate, due to some uncertainty in experimentally derived values, we can do an approximate order-of-magnitude analysis with the results:
