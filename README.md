@@ -1,6 +1,6 @@
 # Twisted Bilayer Graphene Spin-Orbit Parameter Statistical Analysis
 
-TLDR; We find evidence for spin-orbit coupling in twisted bilayer graphene with WSe$_2$ stacked on top. This is found through something called a weak antilocalization peak (a peak at 0 magnetic field that diminishes by a few 10s of mT) that disappears with temperature. We clean the data to provide peaks as shown with the connected dots below and fit the data, as shown with the apppropriately colored dotted lines.
+TLDR: We find evidence for spin-orbit coupling in twisted bilayer graphene with WSe$_2$ stacked on top. This is found through something called a weak antilocalization peak (a peak at 0 magnetic field that diminishes by a few 10s of mT) that disappears with temperature. We clean the data to provide peaks as shown with the connected dots below and fit the data, as shown with the apppropriately colored dotted lines.
 
 ![image](./Figures/Fit_lineplots.png)
 
